@@ -1,0 +1,27 @@
+/*
+Theme Name: Pinbin Child
+Version: 1.0
+Description: A child theme of Pinbin
+Template: pinbin
+*/
+
+@import url("../pinbin/style.css");
+
+
+
+
+p{
+	font-size: 18px;
+}
+
+ul li{
+	color: #59D999;
+	font-size: 14px;
+}
+
+.resume .name{
+	color: #EB0E71;
+}
+.resume h2{
+	color: #9A0EEB;
+}
